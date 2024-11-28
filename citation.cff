@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: >-
+  Prediction of future EIT respiratory cycle images using an LSTM approach.
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jacob Peter
+    family-names: Thönes
+    email: jacob.thoenes@uni-rostock.de
+    affiliation: Universität Rostock
+    orcid: 'https://orcid.org/0000-0003-2826-5281'
+repository-code: 'https://github.com/JacobTh98/Prediction-of-future-EIT-respiratory-cycle-images-using-an-LSTM-approach/'
+url: 'https://github.com/JacobTh98/Prediction-of-future-EIT-respiratory-cycle-images-using-an-LSTM-approach/tree/IEEE_EMBC'
+keywords:
+  - EIT
+  - LSTM
+license: MIT
+version: 1.0
+doi: 
+date-released: '2025-01-17'
