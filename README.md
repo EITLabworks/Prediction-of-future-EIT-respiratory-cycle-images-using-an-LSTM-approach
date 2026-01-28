@@ -27,5 +27,20 @@ Second, a mapper with an LSTM is trained on a sequence of EIT measurements to pr
   <img src="images/pred_results.png" alt="Empty_mesh" width="400px">
 </p>
 <p align="center" style="font-size: smaller;">
-  <em>Fig. 2: Randomly chosen EIT image predictions from the test data set with the corresponding ground truth
-</p>
+  <em>Fig. 2: Randomly chosen EIT image predictions from the test data set with the corresponding ground truth</em>
+ </p>
+
+ Please [see](https://ieeexplore.ieee.org/abstract/document/11253129) or cite:
+ ```
+ @INPROCEEDINGS{11253129,
+  author={Thönes, Jacob P. and Spors, Sascha},
+  booktitle={2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  title={Towards Predicting Future Impedance Distributions from Temporal Sequences of EIT Measurements Using a Recurrent Network},
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Training;Electrical impedance tomography;Impedance measurement;Training data;Ventilation;Time measurement;Impedance;Reliability;Image reconstruction;Long short term memory},
+  doi={10.1109/EMBC58623.2025.11253129}
+}
+ ```
